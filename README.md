@@ -1,4 +1,6 @@
+# As the prod is breaking again and again, I am working on it. It would take little time for me to fix it.
 # Hireme - Online Job Portal
+
 
 Follow these steps to set up the repository locally and run it.
 
